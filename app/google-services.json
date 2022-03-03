@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151848032935",
+    "project_id": "social-varta",
+    "storage_bucket": "social-varta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151848032935:android:09f648f346f5a142701982",
+        "android_client_info": {
+          "package_name": "com.example.socialmeadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151848032935-0npbc8e0882pp0eej631e73f4ittbfod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialmeadia",
+            "certificate_hash": "fb8924803710e6712122e86e33f83cd466c0f020"
+          }
+        },
+        {
+          "client_id": "151848032935-rqqckl2vg46gouj9p4letqh3kai9tqi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQjM0__7zTlOpF5WlSQq1MFetPNve4dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151848032935-rqqckl2vg46gouj9p4letqh3kai9tqi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
